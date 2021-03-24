@@ -20,7 +20,7 @@
 </p>
 
 <h2>Formação<h2>
-<p>Estudando o 1º semestre de Análise e desenvolvimentos de sistemas pela <a href="">Universidade Católica de Brasília</a></p>
+<p>Estudando o 1º semestre de Análise e desenvolvimentos de sistemas pela Universidade Católica de Brasília</p>
 
 <h2>🏆 Estatísticas</h2>
 
