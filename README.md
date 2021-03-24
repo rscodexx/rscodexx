@@ -3,4 +3,4 @@
 <h2>✨ Sobre</h2>
 <p> Meu nome é Rafael Santos, tenho 24 anos e sou apaixonado por tecnologia desde os 12 anos de idade, atualmente focado no desenvolvimento de PHP com o framework laravrel.</p>
 
-<code> echo "Olá, mundo!";</code>
+<pre> echo "Olá, mundo!";</pre>
