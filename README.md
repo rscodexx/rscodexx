@@ -19,10 +19,11 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 </p>
 
-
-<h2> 📬 Contato </h2>
-
+<h2>👨‍💻 Formação<h2>
+  
 
 <h2>🏆 Estatísticas</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rscodexx&show_icons=true&theme=tokyonight)
+
+<h2> 📬 Contato </h2>
