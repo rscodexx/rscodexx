@@ -19,7 +19,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 </p>
 
-<h2>👨‍💻 Formação<h2>
+<h2>👨‍💻 Formação <h2>
+  
 <p>Estudando o 1º semestre de Análise e desenvolvimentos de sistemas pela <a href="">Universidade Católica de Brasília</a></p>
 
 <h2>🏆 Estatísticas</h2>
