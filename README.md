@@ -5,6 +5,9 @@
 
 <pre> echo "Olá, mundo!";</pre>
 
+<h2>Formação<h2>
+<p>Estudando o 1º semestre de Análise e desenvolvimentos de sistemas pela Universidade Católica de Brasília</p>
+
 <h2>🛠 Tecnologias</h2>
 
 <p>
