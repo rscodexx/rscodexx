@@ -6,7 +6,7 @@
 <pre> echo "Olá, mundo!";</pre>
 
 <h2>✨ Formação</h2>
-<p> Meu nome é Rafael Santos, tenho 24 anos e sou apaixonado por tecnologia desde os 12 anos de idade, atualmente focado no desenvolvimento de PHP com o framework laravrel.</p>
+<p> Estudando o 1º semestre de Análise e desenvolvimentos de sistemas pela Universidade Católica de Brasília</p>
 
 <h2>🛠 Tecnologias</h2>
 
