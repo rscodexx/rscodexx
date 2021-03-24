@@ -4,9 +4,11 @@
 <p> Meu nome é Rafael Santos, tenho 24 anos e sou apaixonado por tecnologia desde os 12 anos de idade, atualmente focado no desenvolvimento de PHP com o framework laravrel.</p>
 
 <pre> echo "Olá, mundo!";</pre>
+<br>
 
 <h2>📝 Formação</h2>
 <p> Estudando o 1º semestre de Análise e desenvolvimentos de sistemas pela <em>Universidade Católica de Brasília</em>.</p>
+<br>
 
 <h2>🛠 Tecnologias</h2>
 
@@ -21,9 +23,11 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></img></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></img></code>
 </p>
+<br>
 
 <h2>🏆 Estatísticas</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rscodexx&show_icons=true&theme=tokyonight)
 
+<br>
 <h2> 📬 Contato </h2>
