@@ -1,6 +1,6 @@
 <h1 align="center">Portfólio <a href="https://github.com/rscodexx">Rscodexx</a></h1>
 
-<h2>:house: Site</h2>
+<h2>💻 Site</h2>
 <p>https://www.rscode.com.br/</p>
 <br>
  
