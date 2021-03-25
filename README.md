@@ -43,4 +43,4 @@
 <br>
 <h2> 📬 Contato </h2>
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/raffrenan/">
+<a href="href="https://www.linkedin.com/in/raffrenan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/raffrenan/"></a>
