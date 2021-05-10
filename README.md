@@ -5,7 +5,7 @@
 <br>
  
 <h2>✨ Sobre</h2>
-<p> Meu nome é Rafael Santos, tenho 24 anos e sou apaixonado por tecnologia, atualmente focado no desenvolvimento de PHP com o framework laravrel.</p>
+<p> Meu nome é Rafael Santos, tenho 25 anos e sou apaixonado por tecnologia, atualmente focado no desenvolvimento de PHP com o framework laravrel.</p>
 
 <pre> echo "Olá, mundo!";</pre>
 <br>
