@@ -35,6 +35,7 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+ <img alt="Docker 10" src="https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <br>
 
