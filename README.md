@@ -33,9 +33,11 @@
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
- <img alt="Docker 10" src="https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 <br>
 
