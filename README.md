@@ -11,7 +11,7 @@
 <br>
 
 <h2>📝 Formação</h2>
-<p> Estudando o 1º semestre de Análise e desenvolvimentos de sistemas pela <em>Universidade Católica de Brasília</em>.</p>
+<p> Estudando o 3º semestre de Análise e desenvolvimentos de sistemas pela <em>Universidade Católica de Brasília</em>.</p>
 <br>
 
 <h2>🛠 Tecnologias e Ferramentas</h2>
