@@ -11,7 +11,7 @@
 <br>
 
 <h2>📝 Formação</h2>
-<p> Estudando o 3º semestre de Análise e desenvolvimentos de sistemas pela <em>Universidade Católica de Brasília</em>.</p>
+<p> Estudando o 4º semestre de Análise e desenvolvimentos de sistemas pela <em>Universidade Católica de Brasília</em>.</p>
 <br>
 
 <h2>🛠 Tecnologias e Ferramentas</h2>
@@ -38,6 +38,7 @@
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="VUE" src="https://img.shields.io/badge/vue.js-35495E.svg?&style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </p>
 <br>
 
